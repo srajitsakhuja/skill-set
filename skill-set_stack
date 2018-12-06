@@ -10,9 +10,8 @@
 		-Athena
 		-Elasticsearch Service
 		-Kinesis
-		-Redshift
+		-Redshift, Spectrum
 		-Sagemaker
-		-Spectrum
 
 
 	-Python
