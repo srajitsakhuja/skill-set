@@ -1,0 +1,27 @@
+-AWS
+	-Compute: 
+		-EC2
+	-Storage:
+		-S3
+		-EBS
+	-Database:
+		-Redshift
+	-Analytics:
+		-Athena
+		-Elasticsearch Service
+		-Kinesis
+		-Redshift
+
+-Python
+	-Lambda, Map, Filter, Reduce
+	-Metclasses
+	-Decorators
+	-Generators
+	-Iterators
+	-Context Managers
+
+-Kaggle
+	-Blue Box for Bulldozers
+
+-Apache
+	-Spark
