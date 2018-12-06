@@ -14,13 +14,13 @@
 		-Sagemaker
 
 
-	-Python
-		-Lambda, Map, Filter, Reduce
-		-Metclasses
-		-Decorators
-		-Generators
-		-Iterators
-		-Context Managers
+-Python
+	-Lambda, Map, Filter, Reduce
+	-Metclasses
+	-Decorators
+	-Generators
+	-Iterators
+	-Context Managers
 
 -Kaggle
 	-Blue Box for Bulldozers
