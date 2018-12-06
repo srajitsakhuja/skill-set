@@ -15,12 +15,12 @@
 
 
 	-Python
-	-Lambda, Map, Filter, Reduce
-	-Metclasses
-	-Decorators
-	-Generators
-	-Iterators
-	-Context Managers
+		-Lambda, Map, Filter, Reduce
+		-Metclasses
+		-Decorators
+		-Generators
+		-Iterators
+		-Context Managers
 
 -Kaggle
 	-Blue Box for Bulldozers
