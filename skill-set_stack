@@ -11,8 +11,11 @@
 		-Elasticsearch Service
 		-Kinesis
 		-Redshift
+		-Sagemaker
+		-Spectrum
 
--Python
+
+	-Python
 	-Lambda, Map, Filter, Reduce
 	-Metclasses
 	-Decorators
