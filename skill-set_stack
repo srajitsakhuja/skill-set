@@ -16,7 +16,7 @@
 
 -Python
 	-Lambda, Map, Filter, Reduce
-	-Metclasses
+	-Metaclasses
 	-Decorators
 	-Generators
 	-Iterators
@@ -28,6 +28,9 @@
 -Apache
 	-Spark
 
+-NLP
+	-Spacy (Python) (look up Spacy 'hooks')
+	-Word Movers Distance
 Courses:
 -Deep Learning Specialisation: https://www.coursera.org/specializations/deep-learning
 -Big Data Specialisation: https://www.coursera.org/specializations/big-data
