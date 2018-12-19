@@ -13,7 +13,6 @@
 		-Redshift, Spectrum
 		-Sagemaker
 
-
 -Python
 	-Lambda, Map, Filter, Reduce
 	-Metaclasses
